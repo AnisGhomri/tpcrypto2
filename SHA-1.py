@@ -26,7 +26,7 @@ def H(t1,t2):
         
         x += 1
         
-id =  "GhomriAnis" #input("veuillez saiser votre nom : ")
+id ="GhomriAnis"
 y = "03b1663dda6549a0939ffdd712a852e0d4234e6b"
 
 x = H(id , y)
